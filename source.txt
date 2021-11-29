@@ -1,0 +1,35 @@
+Sujet :
+	https://cdn.intra.42.fr/pdf/pdf/30213/fr.subject.pdf
+
+Norme && Soluce :
+	https://www.francocube.com/cyril/rubiks-cube
+
+Stock Data :
+	https://medium.com/@brad.hodkinson2/writing-code-to-solve-a-rubiks-cube-7bf9c08de01f
+
+Opération Bits :
+	https://docs.microsoft.com/fr-fr/cpp/cpp/left-shift-and-right-shift-operators-input-and-output?view=msvc-160
+
+Masque Bits :
+	https://fr.wikipedia.org/wiki/Masquage
+
+Bit field :
+	https://en.cppreference.com/w/cpp/language/bit_field
+
+Bitset :
+	https://www.cplusplus.com/reference/bitset/bitset/
+
+Maths des groupes pour Rubik :
+	https://web.mit.edu/sp.268/www/rubik.pdf
+
+## Code exemple C++ && Binary Representation ##
+	https://github.com/k-off/Rubik
+
+Bit Twiddling Hacks 'Alex' :
+	https://graphics.stanford.edu/~seander/bithacks.html
+
+RÉSOLUTION EN 10H :
+	https://medium.com/@benjamin.botto/implementing-an-optimal-rubiks-cube-solver-using-korf-s-algorithm-bf750b332cf9
+
+IDA* :
+	https://medium.com/@benjamin.botto/implementing-an-optimal-rubiks-cube-solver-using-korf-s-algorithm-bf750b332cf9

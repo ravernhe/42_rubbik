@@ -1,0 +1,2 @@
+#include "Rubik.class.hpp"
+
